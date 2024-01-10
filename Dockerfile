@@ -1,1 +1,1 @@
-FROM factoriotools/factorio:1.1.100
+FROM factoriotools/factorio:1.1.101
