@@ -1,1 +1,1 @@
-FROM factoriotools/factorio:stable-2.0.13
+FROM factoriotools/factorio:stable-2.0.15
